@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center" style="margin-bottom: -30px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header"/>
+</p>
+<h1 align="center">Hi 👋, I'm Ruize He (何睿泽)</h1>
 
-<!--
-**Horizonll/Horizonll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Exploring the Frontiers of Deep Learning and Robotics</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm an undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn). I have conducted research on network architecture for foundation models at [LEAP Lab](https://www.leaplab.ai) and on robot localization at [iDLab](http://182.92.169.58/thulab/labweb). Additionally, I served as the Decision Team Leader of the THMOS humanoid robotics team. My research interests include deep learning and robotics.
+
+---
+
+### 🎓 Education
+
+- August 2023 – Present: Undergraduate, [School of Vehicle and Mobility](https://www.svm.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn)
+
+---
+
+### 🌐 Connect with Me
+
+- 🌐 [Personal Website](https://horizonll.github.io/)
+- 📧 [Email](mailto:herz23@mails.tsinghua.edu.cn)
+
+---
+
+<p align="center">
+  <i>Thank you for visiting! 🌟 Feel free to explore, star, or fork my work.</i>
+</p>
+
+<p align="center" style="margin-top: -30px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
+</p>
