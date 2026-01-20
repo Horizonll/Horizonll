@@ -13,19 +13,6 @@ I'm an undergraduate student at [Tsinghua University](https://www.tsinghua.edu.c
 
 ---
 
-### 🎓 Education
-
-- August 2023 – Present: Undergraduate, [School of Vehicle and Mobility](https://www.svm.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn)
-
----
-
-### 🌐 Connect with Me
-
-- 🌐 [Personal Website](https://horizonll.github.io/)
-- 📧 [Email](mailto:herz23@mails.tsinghua.edu.cn)
-
----
-
 <p align="center">
   <i>Thank you for visiting! 🌟 Feel free to explore, star, or fork my work.</i>
 </p>
